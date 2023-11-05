@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "/j0DFw4t6cLXc0CVylZgKtZrDh2JEgVj4qQAH+hdXbIL2CnW4e6fBMVrhehkmglwgHQPeE4TEkJhtKtd5zCvTw==",
+  "dgSpecHash": "BU8/jwFBlwqnVey1EzD6AgI9MVQg67q4AfYWXo0WwZ5xYgWmhEeUVLqmLYmECW6PSyDL4hZitkNjLqgplY66JQ==",
   "success": true,
   "projectFilePath": "/Users/allen/Documents/dev/projects/dotnet/CommandsService/CommandsService.csproj",
   "expectedPackageFiles": [
@@ -32,7 +32,6 @@
     "/Users/allen/.nuget/packages/swashbuckle.aspnetcore.swaggergen/6.5.0/swashbuckle.aspnetcore.swaggergen.6.5.0.nupkg.sha512",
     "/Users/allen/.nuget/packages/swashbuckle.aspnetcore.swaggerui/6.5.0/swashbuckle.aspnetcore.swaggerui.6.5.0.nupkg.sha512",
     "/Users/allen/.nuget/packages/system.codedom/4.4.0/system.codedom.4.4.0.nupkg.sha512",
-    "/Users/allen/.nuget/packages/system.runtime.compilerservices.unsafe/6.0.0/system.runtime.compilerservices.unsafe.6.0.0.nupkg.sha512",
     "/Users/allen/.nuget/packages/system.text.encodings.web/7.0.0/system.text.encodings.web.7.0.0.nupkg.sha512",
     "/Users/allen/.nuget/packages/system.text.json/7.0.0/system.text.json.7.0.0.nupkg.sha512"
   ],
